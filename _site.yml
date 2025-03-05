@@ -1,0 +1,9 @@
+name: "usans-website"
+output_dir: "."
+navbar:
+  title: "Usan Dan"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
