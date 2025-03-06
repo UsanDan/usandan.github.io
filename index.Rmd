@@ -2,6 +2,24 @@
 title: "Usan Dan"
 ---
 
-PhD Candidate in the Bell Lab at University of Illinois Urbana-Champaign
+##### PhD Candidate in the [Bell Lab](https://alisonbelllab.web.illinois.edu/)
 
-![](photos/portrait.jpg)
+![](photos/portrait.jpg){width="35%"} 
+I am currently a PhD candidate in the Neuroscience Program at the University of Illinois Urbana-Champaign, where I work with Dr. Alison Bell on the neural mechanisms of social behaviour. 
+
+I enjoy interdisciplinary research that integrates experimental manipulations, 'omics technologies, and molecular tools to understand how ecologically relevant behaviours are generated and evolve. 
+
+Contact me at: usandan2@illinois.edu
+
+|   *  [LinkedIn](https://www.linkedin.com/in/usan-dan-0ba159157)
+|   *  [GitHub](https://github.com/UsanDan)
+|
+|
+|
+|
+|
+|
+### Recent News
+
+|   *  I passed my preliminary exam in November 2024!
+|   *  Check out my recently published paper [here](https://doi.org/10.1016/j.yhbeh.2024.105652)

@@ -13,6 +13,8 @@ navbar:
       href: outreach.html
     - text: "About Me"
       href: about.html
+  type: inverse
 output:
   html_document:
     theme: journal
+    css: style.css

@@ -4,6 +4,6 @@ title: "Research"
 
 text about research interests
 
-## Current Projects
+### Current Projects
 
-## Publications
+### Publications
