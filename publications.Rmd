@@ -1,0 +1,36 @@
+---
+title: "Publications"
+---
+|
+### Published
+
+__Dan, U.__\*, Maciejewski, M.F.\*, Schwaiger, E.†, and  Bell, A.M. (2024) Oxytocin influences parental care in male threespine stickleback across multiple time scales. Hormones and Behavior, 166, 105652. [https://doi.org/10.1016/j.yhbeh.2024.105652](https://doi.org/10.1016/j.yhbeh.2024.105652)  
+*co-first authors †undergraduate author
+
+Hu, F., Kamigaki, T., Zhang, Z., Zhang, S., __Dan, U.__, and Dan, Y. (2019) Prefrontal corticotectal neurons enhance visual processing through the superior colliculus and pulvinar thalamus. Neuron, 104(6), 1141-1152.e4. [https://doi.org/10.1016/j.neuron.2019.09.019](https://doi.org/10.1016/j.neuron.2019.09.019)
+ 
+### In Progress
+
+Jang, H., Sharma, A.B., __Dan, U.__, Wong, J.H., Knight, Z.A., Garrison, J.L. (In review) Dysregulation of the fluid homeostasis system by aging.
+
+### Posters and Presentations
+
+#### Posters
+
+__Dan, U.__, Madrigal, G., Zhao, D., Behrens, C., Catchen, J., and Bell, A.M. (2024, August) Insights from single-nuclei transcriptomics into the evolution and neural basis of parental care in two three-spined stickleback ecotypes  
+_Poster session presented at 15th International Congress of Neuroethology, Berlin, Germany_
+
+__Dan, U.__, Madrigal, G., Zhao, D., Behrens, C., Cao, K., Catchen, J., and Bell, A.M. (2023, August) Neural Cluster Abundance and Activation Differences in Two Behaviourally Divergent Ecotypes of Three-spined Stickleback, Gasterosteus aculeatus  
+_Poster session presented at Neuroethology: Behavior, Evolution and Neurobiology Gordon Research Seminar/Conference, Mount Snow, VT, USA_
+
+__Dan, U.__ and Bell, A.M. (2022, July) Fine-tuning a Shoaling Assay for Functional Manipulation in Threespined Stickleback, Gasterosteus aculeatus  
+_Poster session presented at Animal Behavior Society meeting, San Jose, Costa Rica_
+
+#### Oral Presentations
+
+__Dan, U.__ (2022, July) Friendly or Feisty: Viral-Mediated Transgenesis in Threespined Stickleback  
+_Workshop talk presented at Animal Behavior Society meeting, San Jose, Costa Rica_
+
+__Dan, U.__ (2022, May) Applying Functional Genetic Tools to Shoaling Behaviour in Threespined Stickleback, Gasterosteus aculeatus  
+_Lightning talk presented at Gene Networks in Neural & Development Plasticity DataBlitz, University of Illinois Urbana-Champaign, IL, USA_
+
